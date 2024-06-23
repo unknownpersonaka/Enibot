@@ -1,0 +1,31 @@
++--------------------+
+| Dbook project CLI  |
++--------------------+
++
++    [Usage]
++    
++    python3 run_python_script.py [OPTION: download | info]...  ["name"]...  [ISBN/Ref.Eni]...
++    
++   [Example]
++
++    see the github page at: https://github.com/unknownpersonaka/Enibot
++    
++    [List of all directories]
++    
++    Directory of downloaded book(s):      ~/Desktop/Books
++    Directory of backup file(s) book(s):   ~/Downloads/files_garbage
++    
++
++    [List of all operations]
++    
++    config  ["email"]...  ["password"]...  ["portail"]...    Set login parameters 
++    download  ["Name"]...  ["REFERENCE"]...                  Download the book.
++    info     ["Name"]...  ["REFERENCE"]...                   See all informations about book(s).
++    
++    
++    NB1: If you have some question about this script contact me :) !
++    NB2: If you want GUI app, please contact me :) and i will reply you !
++    
++    --->    "gogolplhex@duck.com"
++
++

@@ -1,0 +1,10 @@
+{
+    "download.directory_upgrade": true,
+    "download.prompt_for_download": false,
+    "args":[
+            "--no-sandbox",
+            "--disable-dev-shm-usage",
+            "--disable-extensions",
+            "--enable-automation"
+        ]
+}
